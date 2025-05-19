@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.4",
-  "updateUrl": "https://github.com/KULLANICI/REPO/releases/download/v1.4/app-release.apk",
+  "updateUrl": "https://raw.githubusercontent.com/elifymr/Store-game/main/update.json",
   "updateMessage": "Yeni güncelleme mevcut!",
   "forceUpdate": false
 }
