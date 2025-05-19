@@ -1,4 +1,6 @@
 {
   "latestVersion": "1.4",
-  "apkUrl": "https://github.com/KULLANICI/REPO/raw/main/app-release-v1.4.apk"
+  "updateUrl": "https://github.com/KULLANICI/REPO/releases/download/v1.4/app-release.apk",
+  "updateMessage": "Yeni güncelleme mevcut!",
+  "forceUpdate": false
 }
