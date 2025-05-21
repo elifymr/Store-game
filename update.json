@@ -1,7 +1,6 @@
 {
   "latestVersion": 1.5,
-  "updateUrl": "https://raw.githubusercontent.com/elifymr/Store-game/main/update.json",
+  "apkUrl": "https://github.com/elifymr/Store-game/releases/download/1.5/BeyzaStore.apk",
   "updateMessage": "Yeni güncelleme mevcut!",
-  "forceUpdate": false,
-  "apkUrl": "https://github.com/elifymr/Store-game/releases/download/1.5/app-release.apk"
+  "forceUpdate": false
 }
